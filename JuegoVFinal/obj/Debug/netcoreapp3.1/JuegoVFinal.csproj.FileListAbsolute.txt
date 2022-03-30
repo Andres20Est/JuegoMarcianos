@@ -1,0 +1,13 @@
+C:\Users\andre\source\repos\JuegoVFinal\JuegoVFinal\bin\Debug\netcoreapp3.1\JuegoVFinal.exe
+C:\Users\andre\source\repos\JuegoVFinal\JuegoVFinal\bin\Debug\netcoreapp3.1\JuegoVFinal.deps.json
+C:\Users\andre\source\repos\JuegoVFinal\JuegoVFinal\bin\Debug\netcoreapp3.1\JuegoVFinal.runtimeconfig.json
+C:\Users\andre\source\repos\JuegoVFinal\JuegoVFinal\bin\Debug\netcoreapp3.1\JuegoVFinal.runtimeconfig.dev.json
+C:\Users\andre\source\repos\JuegoVFinal\JuegoVFinal\bin\Debug\netcoreapp3.1\JuegoVFinal.dll
+C:\Users\andre\source\repos\JuegoVFinal\JuegoVFinal\bin\Debug\netcoreapp3.1\JuegoVFinal.pdb
+C:\Users\andre\source\repos\JuegoVFinal\JuegoVFinal\obj\Debug\netcoreapp3.1\JuegoVFinal.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\JuegoVFinal\JuegoVFinal\obj\Debug\netcoreapp3.1\JuegoVFinal.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\JuegoVFinal\JuegoVFinal\obj\Debug\netcoreapp3.1\JuegoVFinal.AssemblyInfo.cs
+C:\Users\andre\source\repos\JuegoVFinal\JuegoVFinal\obj\Debug\netcoreapp3.1\JuegoVFinal.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\JuegoVFinal\JuegoVFinal\obj\Debug\netcoreapp3.1\JuegoVFinal.dll
+C:\Users\andre\source\repos\JuegoVFinal\JuegoVFinal\obj\Debug\netcoreapp3.1\JuegoVFinal.pdb
+C:\Users\andre\source\repos\JuegoVFinal\JuegoVFinal\obj\Debug\netcoreapp3.1\JuegoVFinal.genruntimeconfig.cache
